@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#0178D4"
+    tools:context=".loginRed">
+
+    <LinearLayout
+        android:id="@+id/ecenario"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text_iniciaRed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Bienvenido"
+            app:cornerRadius="30dp"
+            android:layout_marginBottom="20dp"
+            android:textColor="#191818"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="131dp"
+            android:layout_height="38dp"
+            android:layout_marginBottom="70dp"
+            android:background="@drawable/circulo_image"
+            android:src="@drawable/share" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:text="Crear red"
+            app:backgroundTint="#4CAF50"
+            app:cornerRadius="20dp" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="Ingresar a red"
+            app:backgroundTint="#4CAF50"
+            app:cornerRadius="20dp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
