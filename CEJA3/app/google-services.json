@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696360124123",
+    "firebase_url": "https://fireabasecejachat-default-rtdb.firebaseio.com/",
+    "project_id": "fireabasecejachat",
+    "storage_bucket": "fireabasecejachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696360124123:android:838dd855178ec50662d6fe",
+        "android_client_info": {
+          "package_name": "com.alexis.ceja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696360124123-grvn1j1puj0klqhngpg0ubc4jf10cfn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjocpN8r4XceKzL_kkKak-PEn0Yx2tLrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696360124123-grvn1j1puj0klqhngpg0ubc4jf10cfn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

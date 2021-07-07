@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">C.E.J.A</string>
+    <string name="BotonSiguiente">Iniciar Sesión</string>
+    <string name="BotonCrear">Registrate</string>
+    <string name="user">Usuario</string>
+    <string name="chat">Ingresar a chat</string>
+
+    <string name="obtener_contraseña">¿Se te olvido la contraseña?. Click aquí</string>
+</resources>
